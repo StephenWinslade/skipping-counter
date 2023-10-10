@@ -97,7 +97,6 @@ export const PoseNet = () => {
           left: 0,
           right: 0,
           textAlign: "center",
-          zindex: 9,
           width: 1280,
           height: 720
         }}
@@ -113,7 +112,6 @@ export const PoseNet = () => {
           left: 0,
           right: 0,
           textAlign: "center",
-          zindex: 9,
           width: 1280,
           height: 720
         }}
