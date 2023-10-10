@@ -1,5 +1,5 @@
 import Head from "next/head";
-
+import { PoseNet } from "./components/PoseNet";
 export default function Home() {
   return (
     <div
@@ -19,6 +19,7 @@ export default function Home() {
         <p>
           Get started by editing <code>pages/index.tsx</code>
         </p>
+        <PoseNet />
       </main>
     </div>
   );
